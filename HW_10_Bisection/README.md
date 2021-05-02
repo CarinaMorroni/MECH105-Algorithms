@@ -7,4 +7,4 @@
 * A function
 * An Upper Guess
 * A Lower Guess
-* The approximate relative error at which to stop running the algorithm
+* The maximum relative error acceptable for an answer
