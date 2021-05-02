@@ -1,8 +1,9 @@
 # LU Factorization
 
-This algorithm perform LU Decomposition, using Partial Pivoting
+This algorithm performs LU Decomposition, using Partial Pivoting
 
-Required Inputs:
+
+*Required Inputs:*
 * An "A" Matrix
 
 
